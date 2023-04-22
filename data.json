@@ -1,0 +1,84 @@
+ {
+    "sorular" :[
+        {
+           "soru":"1) Aşağıdakilerden hangisi JavaScript ile açılır pencerede yazdırma fonksiyonudur ?",
+           "secenekA":"alert()",
+           "secenekB":"document.write()",
+           "secenekC":"console.log()",
+           "secenekD":"document.querySelector()",
+           "cevap":"secenekA"
+        },
+        {
+            "soru":"2) Aşağıdakilerden hangisi JavaScript'in harici veri saklama yapılarından değildir ?",
+            "secenekA":"JavaScript Object",
+            "secenekB":"JSON",
+            "secenekC":"Mysql",
+            "secenekD":"MongoDB",
+            "cevap":"secenekA"   
+         },
+         {
+            "soru":"3) Aşağıdaki DOM işlemlerinden hangisi yanlış verilmiştir ?",
+            "secenekA":"let take = document.getElementById('id')",
+            "secenekB":"let take = document.getElementsByClassName('class')",
+            "secenekC":"let take = document.getElementsByIdName('class');",
+            "secenekD":"let take = document.getElementsByTagName('tag');",
+            "cevap":"secenekC"   
+         },
+         {
+            "soru":"4) Aşağıdakilerden hangisi doğru değildir.",
+            "secenekA":"Javascript bir programlama dilidir.",
+            "secenekB":"Javascript ile veri eşleştirmesi yapılabilir.",
+            "secenekC":"Javascript ile border rengi değiştirilebilir.",
+            "secenekD":"javascript bir markup dilidir.",
+            "cevap":"secenekD"   
+         },
+         {
+            "soru":"5) Javascript ile ilgili verilen bilgilerden hangisi yanlıştır ?",
+            "secenekA":"Javascript html dosyamıza internal olarak yazıldığında <script> etiketleri arasına yazılır.",
+            "secenekB":"Javascript kodlarımız html sayfamızın <style> etiketinden hemen önce açılır.",
+            "secenekC":"Javascript dosyamızı html sayfamıza <body> kapanış etiketlerinin bitimine yazılabilir.",
+            "secenekD":"Javascript bir programlama dilidir.",
+            "cevap":"secenekB"   
+         },
+         {
+            "soru":"6) Hangileri Javascript kütüphanesi değildir ?",
+            "secenekA":"Jquery ",
+            "secenekB":"Bootstrap5",
+            "secenekC":"React Native",
+            "secenekD":"Tailwind",
+            "cevap":"secenekB"   
+         },
+         {
+            "soru":"7) Bir arttırmayı sağlayan kısayol operatörü aşağıdakilerin hangisinde doğru verilmiştir ?",
+            "secenekA":"a--",
+            "secenekB":"1+1",
+            "secenekC":"a++",
+            "secenekD":"a+a",
+            "cevap":"secenekC"   
+         },
+         {
+            "soru":"8) Aşağıdakilerin hangisi Javascript veri tiplerinden değildir ?",
+            "secenekA":"String veri tipleri",
+            "secenekB":"Number veri tipleri ",
+            "secenekC":"Object veri tipleri ",
+            "secenekD":"Prompt veri tipleri",
+            "cevap":"secenekD"   
+         },
+         {
+            "soru":"9) Array yapısı aşağıdakilerin hangisinde doğru verilmiştir ?",
+            "secenekA":"const listem = ('Elma', 1, '2', 'Basketball') ",
+            "secenekB":"const listem = {'Elma', 1,' 2', 'Basketball'}",
+            "secenekC":"const listem = ['Elma', 1,' 2', 'Basketball']",
+            "secenekD":"const listem = 'Elma', 1,' 2', 'Basketball'",
+            "cevap":"secenekC"   
+         },
+         {
+            "soru":"10) Prompt komutu hangi tür veri tipi girişi sağlar ?",
+            "secenekA":"Number",
+            "secenekB":"Object",
+            "secenekC":"String",
+            "secenekD":"Array",
+            "cevap":"secenekC"   
+         }
+    ]
+ }
